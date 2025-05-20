@@ -12,4 +12,3 @@ class Solution:
                 if not prefix:
                     break
             return prefix
-                
